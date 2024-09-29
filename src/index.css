@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rootComponent {
+  background-image: url("./assets/Digital-Computer-Uses.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
