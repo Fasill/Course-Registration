@@ -1,4 +1,3 @@
-import React from "react";
 import assets from "../assets/index";
 import Card from "./Card";
 interface Data {
